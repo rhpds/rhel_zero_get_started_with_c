@@ -1,0 +1,32 @@
+slug: get-started-with-c
+id: kd3aymebw01x
+title: Get Started with C/C++ on RHEL
+description: |
+  # Goal: Run a program in C or C++
+  # Overview
+
+  After completing this scenario, users will be able to configure Red Hat Enterprise Linux to run code written in C and C++.
+
+  ## Concepts included in this scenario:
+
+  * RHEL Developer Toolset
+  * Beginner shell commands
+  * Compilation and execution of code
+
+  ## Example use case:
+
+  You wish to build your own programs written in C or C++
+icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
+tags:
+- rhel
+- devel101
+owner: rhel
+developers:
+- wkibbe@redhat.com
+timelimit: 3060
+sandbox_preset: devel-101
+lab_config:
+  overlay: false
+  width: 33
+  position: right
+checksum: "17877388892399906302"
