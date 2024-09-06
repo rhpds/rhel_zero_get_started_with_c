@@ -6,7 +6,7 @@ C_source directory by running the following command
 cd /home/C_source
 ----
 
-Run the following command to create a "`Hello World`" program in C:
+Run the following command to create a ``Hello World'' program in C:
 
 [source,bash]
 ----
